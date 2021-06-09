@@ -1,4 +1,4 @@
-## Jonathan Lee
+# Jonathan Lee
 ### 
 Hi there 👋 I'm Jonathan, a Software Engineer, focusing on Android Development. Welcome to my GitHub profile where I share my side projects. If you see anything you like, a ⭐ will be much appreciated!
 
