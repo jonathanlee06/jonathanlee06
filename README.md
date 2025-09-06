@@ -199,6 +199,4 @@ I'm always open to collaborating on interesting Android projects or discussing t
 
 ⭐ **If you find my projects interesting, a star would be much appreciated!** ⭐
 
-![Visitor Count](https://profile-counter.glitch.me/jonathanlee06/count.svg)
-
 </div>
