@@ -113,21 +113,62 @@ Simple Android app to control animation settings without navigating to developer
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanlee06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlee06&layout=compact&langs_count=7&theme=tokyonight"/>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=jonathanlee06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jonathanlee06&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanlee06&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlee06&layout=compact&langs_count=7&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlee06&layout=compact&langs_count=7&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlee06&layout=compact&langs_count=7&theme=default" />
+</picture>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jonathanlee06&theme=tokyonight)](https://git.io/streak-stats)
+
+<picture>
+  <source 
+    srcset="https://streak-stats.demolab.com/?user=jonathanlee06&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=jonathanlee06&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=jonathanlee06&theme=default" />
+</picture>
 
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=jonathanlee06&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source 
+    srcset="https://github-profile-trophy.vercel.app/?username=jonathanlee06&theme=onestar&column=7"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=jonathanlee06&theme=flat&column=7"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=jonathanlee06&theme=flat&column=7" />
+</picture>
 
 </div>
 
