@@ -64,6 +64,22 @@ A sophisticated Android app for testing deep links, built with modern Android ar
 </td>
 <td width="50%">
 
+### 🔍 [StackLens](https://github.com/jonathanlee06/StackLens)
+**Android Crash Log Viewer**
+
+A powerful crash log viewer that reads system crash logs directly from your device.
+
+**Tech Stack:**
+- 🎨 Jetpack Compose
+- 🎯 Material Design 3
+- 🏗️ MVVM + Hilt
+- 📊 DropBoxManager API
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🎬 [Popcorn](https://github.com/jonathanlee06/Popcorn)
 **Movie & TV Shows Catalogue**
 
@@ -76,8 +92,6 @@ A beautiful movie and TV shows app with smooth animations and modern design.
 - 🎬 Rich animations
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🔗 [BindingDelegate](https://github.com/jonathanlee06/BindingDelegate)
@@ -90,20 +104,6 @@ A Kotlin property delegate that simplifies Android View Binding usage to just on
 - 🔧 Kotlin Property Delegate
 - 📱 Android View Binding
 - ⚡ Performance optimized
-
-</td>
-<td width="50%">
-
-### ⚙️ [AnimationToggle](https://github.com/jonathanlee06/AnimationToggle)
-**Developer Productivity Tool**
-
-Simple Android app to control animation settings without navigating to developer options.
-
-**Features:**
-- 🎯 Quick animation control
-- 🛠️ Developer-focused
-- ⚡ Time-saving utility
-- 🎨 Clean interface
 
 </td>
 </tr>
